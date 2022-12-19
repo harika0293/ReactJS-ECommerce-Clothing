@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactJS-ECommerce-Clothing/static/css/main.c439ac71.chunk.css",
+    "main.js": "/ReactJS-ECommerce-Clothing/static/js/main.c0f58a13.chunk.js",
+    "main.js.map": "/ReactJS-ECommerce-Clothing/static/js/main.c0f58a13.chunk.js.map",
+    "runtime-main.js": "/ReactJS-ECommerce-Clothing/static/js/runtime-main.29535881.js",
+    "runtime-main.js.map": "/ReactJS-ECommerce-Clothing/static/js/runtime-main.29535881.js.map",
+    "static/js/2.d384f59a.chunk.js": "/ReactJS-ECommerce-Clothing/static/js/2.d384f59a.chunk.js",
+    "static/js/2.d384f59a.chunk.js.map": "/ReactJS-ECommerce-Clothing/static/js/2.d384f59a.chunk.js.map",
+    "index.html": "/ReactJS-ECommerce-Clothing/index.html",
+    "precache-manifest.b5a8750aa5e68801bb727cf2feb2817a.js": "/ReactJS-ECommerce-Clothing/precache-manifest.b5a8750aa5e68801bb727cf2feb2817a.js",
+    "service-worker.js": "/ReactJS-ECommerce-Clothing/service-worker.js",
+    "static/css/main.c439ac71.chunk.css.map": "/ReactJS-ECommerce-Clothing/static/css/main.c439ac71.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29535881.js",
+    "static/js/2.d384f59a.chunk.js",
+    "static/css/main.c439ac71.chunk.css",
+    "static/js/main.c0f58a13.chunk.js"
+  ]
+}
