@@ -1,26 +1,21 @@
-# shopping-cart-react
+# React JS Application
 
- A basic shopping cart built using Reactjs that lets you sort, filter and add products to the cart.
- 
-### Technologies Used :
-  * React-JS
-  * React Hooks
-  * Netlify.com (for hosting)
-  
-### How to Run Locally :
+A React Framework app
 
-1. Clone the Repository
-  
-     `git clone https://github.com/rajat2502/shopping-cart-react`
+## Install the dependencies
+```bash
+npm install
+npm install --save --legacy-peer-deps
 
-2. cd into Events-Console
-  
-      `cd shopping-cart-react`
-      
-3. Install all dependencies
-      
-      `npm install`
-      
-4. Start Local Server
-      
-      `npm start`
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+npm start
+```
+
+
+### Build the app for production
+```bash
+npm run build
+```
